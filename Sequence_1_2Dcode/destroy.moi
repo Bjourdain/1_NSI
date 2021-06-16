@@ -1,5 +1,0 @@
-#! /bin/bash
-
-rm -fr /home/bruno/Documents/Doc_prof /home/bruno/Documents/Doc_élèves
-
-rm -fr /home/bruno/Archives
